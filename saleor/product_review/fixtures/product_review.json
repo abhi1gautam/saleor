@@ -1,0 +1,41 @@
+[
+    {
+        "model": "saleor.product_review",
+        "pk": 1,
+        "fields": {
+            "product": "70",
+            "user": 1,
+            "score": 5,
+            "review": "Cool product!!!"
+        }
+    },
+    {
+        "model": "saleor.product_review",
+        "pk": 2,
+        "fields": {
+            "product": "70",
+            "user": 1,
+            "score": 5,
+            "review": "Cool product!!!"
+        }
+    },    {
+        "model": "saleor.product_review",
+        "pk": 3,
+        "fields": {
+            "product": "70",
+            "user": 1,
+            "score": 5,
+            "review": "Cool product!!!"
+        }
+    },
+    {
+        "model": "saleor.product_review",
+        "pk": 4,
+        "fields": {
+            "product": "71",
+            "user": 1,
+            "score": 5,
+            "review": "Cool product!!!"
+        }
+    }
+]
